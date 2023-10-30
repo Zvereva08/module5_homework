@@ -1,0 +1,13 @@
+//задание8
+let arr = new Map([
+
+  ["key", "ollo"],
+
+  ["x", "y"],
+
+  [123,    true]
+
+]);
+arr.forEach(function(value,key) {
+  console.log('ключ - ' + key +', значение - ' + value);
+});
