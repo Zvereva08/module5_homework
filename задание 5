@@ -1,0 +1,8 @@
+//задание5
+let arr = [];
+arr.forEach(function(entry) {
+    console.log(entry);
+});
+
+
+
